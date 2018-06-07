@@ -18,7 +18,7 @@
 
 DEVICE_PATH := device/motorola/montana
 
-BOARD_VENDOR := motorola-qcom
+BOARD_VENDOR := google
 
 TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 
